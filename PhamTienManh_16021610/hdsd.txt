@@ -1,0 +1,3 @@
+mảng tín hiệu vào: inSignal
+mảng đáp ứng: impulseResponse
+lệnh chạy: python3 bai6.py

@@ -1,0 +1,3 @@
+lệnh chạy: python bai1-1.py
+	   python bai1-2.py
+	

@@ -4,7 +4,7 @@ import numpy as np
 f = 1
 fs = 8000
 N = 5
-A = 5                                                                         
+A = 5                                                                       
 n = 100
 
 t_samplings = np.linspace(0, N/f, (N/f) * fs)

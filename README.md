@@ -13,6 +13,7 @@ Thành viên nhóm:
 `python generate.py`  
 **Chạy file âm thanh:**  
 `python player.py <nốt>`  
-*nốt*: A, Bb, B, C, C#, D, D#, E, F, F#, G, Ab  
+*nốt*: A4, A#, B, C, C#, D, D#, E, F, F#, G, G#, A5  
 nếu chỉ nhập 1 nốt nhạc sẽ chạy lặp lại nó vô hạn  
 nếu nhập nhiều nốt nhạc sẽ chạy lần lượt rồi dừng  
+ví dụ: `py player.py A5 G E E C D C D A5 G E E G A5 A5 G E E C D C D E C A4 A4`

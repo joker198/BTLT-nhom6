@@ -1,13 +1,13 @@
 # Bài tập truyền thông đa phương tiện
 ### Thành viên nhóm:
 ```
-Nguyễn Thanh Bình
-Phạm Tiến Mạnh
-Hoàng Đình Nam
-Phan Tiến Phước
-Nguyễn Hồng Quang
-Lê Đức Toàn
-Nguyễn Bá Toàn
+Nguyễn Thanh Bình, mã sinh viên 16022424
+Phạm Tiến Mạnh, mã sinh viên 16021610
+Hoàng Đình Nam, mã sinh viên 1602
+Phan Tiến Phước, mã sinh viên 16021628
+Nguyễn Hồng Quang, mã sinh viên 16022502
+Lê Đức Toàn, mã sinh viên 16021655
+Nguyễn Bá Toàn, mã sinh viên 16022483
 ```
 ### Cài đặt:
 **Python version 3.7.5**\

@@ -36,14 +36,14 @@ python bai1-2.py	# Vẽ đồ thị 2
 * Kết quả:
   - Ta được đồ thị của 2 hàm như sau:
 	<p float="middle">
-		<img src="./test/bai1-1.png" width="500" />
-		<img src="./test/bai1-2.png" width="500" />
+		<img src="./test/bai1-1.png" width="300" />
+		<img src="./test/bai1-2.png" width="300" />
 	</p>
 
 **Bài 2:**
 * Lệnh:
 ```
-python generate.py			# Tạo file âm thanh
+python generate.py		# Tạo file âm thanh
 python player.py <nốt>		# Chạy file âm thanh
 ```
 * Ghi chú:
@@ -61,13 +61,13 @@ python recover.py	# Khôi phục lại ảnh từ ảnh red, green, blue, alpha
 * Kết quả:
   - Ta được các file ảnh như sau:
 	<p float="middle">
-		<img src="./test/bai3-origin.png" width="100" />
-		<img src="./test/bai3-gray.png" width="100" />
-		<img src="./test/bai3-red.png" width="100" />
-		<img src="./test/bai3-green.png" width="100" />
-		<img src="./test/bai3-blue.png" width="100" />
-		<img src="./test/bai3-alpha.png" width="100" />
-		<img src="./test/bai3-recover.png" width="100" />
+		<img src="./test/bai3-origin.png" width="100" title="origin" />
+		<img src="./test/bai3-gray.png" width="100" title="gray" />
+		<img src="./test/bai3-red.png" width="100" title="red" />
+		<img src="./test/bai3-green.png" width="100" title="green" />
+		<img src="./test/bai3-blue.png" width="100" title="blue" />
+		<img src="./test/bai3-alpha.png" width="100" title="alpha" />
+		<img src="./test/bai3-recover.png" width="100" title="recover" />
 	</p>
 * Ghi chú:
   - Chương trình chỉ xử lý file ảnh định dạng `.png`
@@ -84,10 +84,10 @@ python recover.py	# Khôi phục ảnh từ miền tần số
 * Kết quả:
   - Ta được các file ảnh như sau:
 	<p float="middle">
-		<img src="./test/bai4-origin.png" width="200" />
-		<img src="./test/bai4-real.tif" width="200" />
-		<img src="./test/bai4-imag.tif" width="200" />
-		<img src="./test/bai4-recover.png" width="200" />
+		<img src="./test/bai4-origin.png" width="200" title="origin" />
+		<img src="./test/bai4-real.png" width="200" title="real" />
+		<img src="./test/bai4-imag.png" width="200" title="image" />
+		<img src="./test/bai4-recover.png" width="200" title="recover" />
 	</p>
 * Ghi chú:
   - Trước khi chạy lệnh, cần copy file ảnh vào cùng thư mục với 2 file `.py` và đổi tên file ảnh thành `origin.png`

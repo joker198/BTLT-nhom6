@@ -1,3 +1,8 @@
+# thư viện sử dụng: numpy
+
 mảng tín hiệu vào: inSignal
 mảng đáp ứng: impulseResponse
+
 lệnh chạy: python3 bai6.py
+
+# màn hình console sẽ in ra kết quả để so sánh

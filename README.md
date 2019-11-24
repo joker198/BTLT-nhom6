@@ -25,6 +25,7 @@ python-constraint==1.4.0
 python-dateutil==2.8.1
 scipy==1.3.3
 six==1.13.0
+pygame==1.9.6
 ```
 ### Hướng dẫn:
 **Bài 1:**
@@ -51,7 +52,7 @@ python player.py <nốt>		# Chạy file âm thanh
   - nếu chỉ nhập 1 nốt nhạc sẽ chạy lặp lại nó vô hạn
   - nếu nhập nhiều nốt nhạc sẽ chạy lần lượt rồi dừng
   - ví dụ: `python player.py A5 G E E C D C D A5 G E E G A5 A5 G E E C D C D E C A4 A4`
-
+  - chưa test trên máy `MAC`
 **Bài 3:**
 * Lệnh:
 ```
